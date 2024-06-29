@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="3" revision="0" build="300"/>
+    <region id="SpellLists">
+        <node id="root">
+            <children>               
+                <node id="SpellList">Spelllist just a modified Fireball
+                    <attribute id="Comment" type="LSString" value=""/> 
+                    <attribute id="Spells" type="LSString" value=""/> the spells within the selector
+                    <attribute id="UUID" type="guid" value="c9167fff-e3bd-4675-aaa0-d998311ea566"/> the UUID, needs to be unique
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

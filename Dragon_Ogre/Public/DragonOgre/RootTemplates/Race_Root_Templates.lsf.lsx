@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="328" lslib_meta="v1,bswap_guids" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="9e38a6ab-46dc-459d-8915-f81bf4a004cf" /> must be unique
+					<attribute id="Name" type="LSString" value="BASE_Main_Female_DragonOgre" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="ParentTemplateId" type="FixedString" value="61943f98-adab-4bfd-91e1-9c20557edc73" /> DGB
+					<attribute id="Icon" type="FixedString" value="24bcc44f-4168-1468-222a-b1bb6370e000-_(Icon_Elf_Female)" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="0a13feb0-273c-4569-b6ab-c1695fd7c434" /> which models to load
+					<attribute id="Race" type="guid" value="7575a0fd-e832-4503-9c46-e5c04d7467d2" /> define race as Custom Race
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="a56e87f9-dc6f-4033-867f-8b868c89d471" /> Custom Race tag
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+						<node id="LocomotionParams" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="ef54ec93-94e9-4aa2-9e40-e64d6c36ff06" /> must be unique
+					<attribute id="Name" type="LSString" value="BASE_Main_Male_CustomRace" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="ParentTemplateId" type="FixedString" value="87930b5f-a8bf-4fbf-ba7a-b1d37bd7deb0" /> DGB
+					<attribute id="Icon" type="FixedString" value="4c8affee-8495-7a94-6506-bf050e0e091a-_(Icon_Elf_Male)" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="eab7b2f4-871c-483d-9aa4-48569f998697" /> which models to load
+					<attribute id="Race" type="guid" value="7575a0fd-e832-4503-9c46-e5c04d7467d2" /> define race as Custom Race
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="a56e87f9-dc6f-4033-867f-8b868c89d471" /> Custom Race tag
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+						<node id="LocomotionParams" />
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>
