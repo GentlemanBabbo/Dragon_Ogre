@@ -4807,7 +4807,7 @@
 			<!--DragonOgre Male Body-->
 				<node id="Resource"> 
 					<attribute id="DiffusionProfileUUID" type="FixedString" value="" /> 
-					<attribute id="ID" type="FixedString" value="720ae7d5-eb6c-4242-a208-befb379ad1b5" /> Generate new UUID
+					<attribute id="ID" type="FixedString" value="73afc544-9f3d-4f40-9d19-049ca68be584" /> Generate new UUID
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="COLORABLE_DragonOgre_WINGS_MAT" />
 					<attribute id="SourceFile" type="LSString" value="Public/SharedDev/Assets/Materials/Characters/CHAR_Skin_Body_DGB.lsf" />
@@ -5508,7 +5508,7 @@
 						<node id="ClothProxyMapping" />
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="720ae7d5-eb6c-4242-a208-befb379ad1b5" />
+							<attribute id="MaterialID" type="FixedString" value="73afc544-9f3d-4f40-9d19-049ca68be584" />
 							<attribute id="ObjectID" type="FixedString" value="DragonOgre_M_Wings.CAMBION_F_NKD_Wing_A_Mesh.0" />
 						</node>
 					</children>
