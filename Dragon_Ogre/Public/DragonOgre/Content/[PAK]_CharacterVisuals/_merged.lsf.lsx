@@ -37,10 +37,6 @@
 							<attribute id="Slot" type="FixedString" value="Head" />
 							<attribute id="VisualResource" type="FixedString" value="072aba9f-7a92-460b-aee5-2dec49ad2878" />
 						</node>
-						<node id="Slots">
-							<attribute id="Slot" type="FixedString" value="Wings" />
-							<attribute id="VisualResource" type="FixedString" value="f2e52598-eb01-43c9-852a-a1e276439a5b" />
-						</node>
 					</children>
 				</node>
 				<node id="Resource">
