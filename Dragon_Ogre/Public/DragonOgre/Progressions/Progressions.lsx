@@ -8,8 +8,8 @@
                   <attribute id="Level" type="uint8" value="1" /> which level the progression is for
                   <attribute id="Name" type="LSString" value="Dragon Ogre" /> just an internal name
                   <attribute id="Boosts" type="LSString" value="" /> 
-                  <attribute id="PassivesAdded" type="LSString" value="DragonOgre_Basic_Passives" /> passives from stats folder here
-                  <attribute id="Selectors" type="LSString" value="SelectSkills(998637b5-4ee0-4eb6-905c-0f306f94cfaa,2)" />see below for explanation
+                  <attribute id="PassivesAdded" type="LSString" value="DragonOgre_Basic_Passives;SavageAttacks;Passive_PackMule" /> passives from stats folder here
+                  <attribute id="Selectors" type="LSString" value="AddSpells(c9167fff-e3bd-4675-aaa0-d998311ea566,,,,AlwaysPrepared);SelectSkills(998637b5-4ee0-4eb6-905c-0f306f94cfaa,2)" />see below for explanation
                   <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
                   <attribute id="TableUUID" type="guid" value="86662657-6ff0-41ba-8878-2cef98d18ec2" /> Always use this one for races.lsx, says this progression node is for Main Race
                   <attribute id="UUID" type="guid" value="adff9959-6a35-47da-b7b2-313ca5fd6cce" />  this one must be unique
@@ -18,8 +18,8 @@
                   <attribute id="Level" type="uint8" value="3" /> which level the progression is for
                   <attribute id="Name" type="LSString" value="Dragon Ogre" /> just an internal name
                   <attribute id="Boosts" type="LSString" value="" /> 
-                  <attribute id="PassivesAdded" type="LSString" value="" /> passives from stats folder here
-                  <attribute id="Selectors" type="LSString" value="" /> this is a single spell being added
+                  <attribute id="PassivesAdded" type="LSString" value="Passive_OgreCurse" /> passives from stats folder here
+                  <attribute id="Selectors" type="LSString" value="AddSpells(060212e3-eb0c-45da-946f-3b5feff38c0d,,,,AlwaysPrepared)" /> this is a single spell being added
                   <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
                   <attribute id="TableUUID" type="guid" value="86662657-6ff0-41ba-8878-2cef98d18ec2" /> Always use this one for races.lsx, says this progression node is for Main Race
                   <attribute id="UUID" type="guid" value="4052422e-4cf7-4733-bdf0-a530c060fec2" />  this one must be unique
@@ -28,8 +28,8 @@
                   <attribute id="Level" type="uint8" value="5" /> which level the progression is for
                   <attribute id="Name" type="LSString" value="Dragon Ogre" /> just an internal name
                   <attribute id="Boosts" type="LSString" value="" /> 
-                  <attribute id="PassivesAdded" type="LSString" value="" /> passives from stats folder here
-                  <attribute id="Selectors" type="LSString" value="" /> this is a single spell being added
+                  <attribute id="PassivesAdded" type="LSString" value="Passive_EmbraceTheVoid" /> passives from stats folder here
+                  <attribute id="Selectors" type="LSString" value="AddSpells(a6cb3b69-8609-4741-950b-0e96870aee6d,,,,AlwaysPrepared)" /> this is a single spell being added
                   <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
                   <attribute id="TableUUID" type="guid" value="86662657-6ff0-41ba-8878-2cef98d18ec2" /> Always use this one for races.lsx, says this progression node is for Main Race
                   <attribute id="UUID" type="guid" value="9972746d-f271-4588-a57d-0f6db81fa6b9" />  this one must be unique
@@ -38,7 +38,7 @@
                   <attribute id="Level" type="uint8" value="7" /> which level the progression is for
                   <attribute id="Name" type="LSString" value="Dragon Ogre" /> just an internal name
                   <attribute id="Boosts" type="LSString" value="" /> 
-                  <attribute id="PassivesAdded" type="LSString" value="" /> passives from stats folder here
+                  <attribute id="PassivesAdded" type="LSString" value="DragonOgre_Resistance_Radiant" /> passives from stats folder here
                   <attribute id="Selectors" type="LSString" value="" /> this is a single spell being added
                   <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
                   <attribute id="TableUUID" type="guid" value="86662657-6ff0-41ba-8878-2cef98d18ec2" /> Always use this one for races.lsx, says this progression node is for Main Race
@@ -48,7 +48,7 @@
                   <attribute id="Level" type="uint8" value="9" /> which level the progression is for
                   <attribute id="Name" type="LSString" value="Dragon Ogre" /> just an internal name
                   <attribute id="Boosts" type="LSString" value="" /> 
-                  <attribute id="PassivesAdded" type="LSString" value="" /> passives from stats folder here
+                  <attribute id="PassivesAdded" type="LSString" value="Passive_Trample" /> passives from stats folder here
                   <attribute id="Selectors" type="LSString" value="" /> this is a single spell being added
                   <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
                   <attribute id="TableUUID" type="guid" value="86662657-6ff0-41ba-8878-2cef98d18ec2" /> Always use this one for races.lsx, says this progression node is for Main Race
@@ -58,7 +58,7 @@
                   <attribute id="Level" type="uint8" value="11" /> which level the progression is for
                   <attribute id="Name" type="LSString" value="Dragon Ogre" /> just an internal name
                   <attribute id="Boosts" type="LSString" value="" /> 
-                  <attribute id="PassivesAdded" type="LSString" value="" /> passives from stats folder here
+                  <attribute id="PassivesAdded" type="LSString" value="Passive_DeathSentence" /> passives from stats folder here
                   <attribute id="Selectors" type="LSString" value="" /> this is a single spell being added
                   <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
                   <attribute id="TableUUID" type="guid" value="86662657-6ff0-41ba-8878-2cef98d18ec2" /> Always use this one for races.lsx, says this progression node is for Main Race
