@@ -37,6 +37,10 @@
 							<attribute id="Slot" type="FixedString" value="Head" />
 							<attribute id="VisualResource" type="FixedString" value="4dbaf75e-ef1d-4842-818e-c83bc735bfa9" />
 						</node>
+						<node id="Slots">
+							<attribute id="Slot" type="FixedString" value="DragonbornTop" />
+							<attribute id="VisualResource" type="FixedString" value="4b4f8431-84a1-43d4-827e-c9b4fae1fddc" />
+						</node>
 					</children>
 				</node>
 				<node id="Resource">
