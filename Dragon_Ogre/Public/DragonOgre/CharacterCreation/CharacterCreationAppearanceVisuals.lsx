@@ -395,7 +395,7 @@
 						 <node id="CharacterCreationAppearanceVisual">
 				                    <attribute id="BodyShape" type="uint8" value="0"/>
 				                    <attribute id="BodyType" type="uint8" value="0"/>
-				                    <attribute id="DisplayName" type="TranslatedString" handle="hef164fccgbaa6g4342g9d22g063cda5d328e" version="2"/>
+				                    <attribute id="DisplayName" type="TranslatedString" handle="" version="2"/>
 				                    <attribute id="HeadAppearanceUUID" type="guid" value="03a20d0c-db0c-49be-97f3-7b30b48b3b02"/>
 				                    <attribute id="RaceUUID" type="guid" value="7575a0fd-e832-4503-9c46-e5c04d7467d2"/>
 				                    <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
