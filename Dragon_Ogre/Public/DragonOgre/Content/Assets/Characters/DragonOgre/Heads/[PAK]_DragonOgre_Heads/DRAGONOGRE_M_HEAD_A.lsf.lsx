@@ -4357,7 +4357,7 @@
 		<node id="AnimationSetBank">
 			<children>
 				<node id="Resource">
-					<attribute id="ID" type="FixedString" value="7801a7d8-7cab-4c85-b545-0d3fb1e4751b" />
+					<attribute id="ID" type="FixedString" value="91143867-4b90-428e-bbce-aa754c25260d" />
 					<attribute id="Localized" type="bool" value="False" />
 					<attribute id="Name" type="LSString" value="DragonOgre_M_Head_A" />
 					<attribute id="PreviewVisualResourceID" type="guid" value="00000000-0000-0000-0000-000000000000" />
@@ -5100,7 +5100,7 @@
 					<attribute id="Name" type="LSString" value="DragonOgre_M_Head_A" />
 					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
 					<attribute id="ScalpMaterialId" type="FixedString" value="" />
-					<attribute id="SkeletonResource" type="FixedString" value="bd60097a-30c7-39db-83ba-808e25eb8aa2" />
+					<attribute id="SkeletonResource" type="FixedString" value="025ac1d2-72e7-9186-2ccc-5397948d815a" />
 					<attribute id="SkeletonSlot" type="FixedString" value="1" />
 					<attribute id="Slot" type="FixedString" value="Head" />
 					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
