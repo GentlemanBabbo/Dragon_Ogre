@@ -4,10 +4,20 @@
     <region id="SpellLists">
         <node id="root">
             <children>               
-                <node id="SpellList">Spelllist just a modified Fireball
+                <node id="SpellList">
                     <attribute id="Comment" type="LSString" value=""/> 
-                    <attribute id="Spells" type="LSString" value=""/> the spells within the selector
+                    <attribute id="Spells" type="LSString" value="Zone_Dovabeam"/> the spells within the selector
                     <attribute id="UUID" type="guid" value="c9167fff-e3bd-4675-aaa0-d998311ea566"/> the UUID, needs to be unique
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value=""/> 
+                    <attribute id="Spells" type="LSString" value="Shout_Enlarge_DragonOgre"/> the spells within the selector
+                    <attribute id="UUID" type="guid" value="060212e3-eb0c-45da-946f-3b5feff38c0d"/> the UUID, needs to be unique
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value=""/> 
+                    <attribute id="Spells" type="LSString" value="Target_Multiattack_DragonOgre"/> the spells within the selector
+                    <attribute id="UUID" type="guid" value="a6cb3b69-8609-4741-950b-0e96870aee6d"/> the UUID, needs to be unique
                 </node>
             </children>
         </node>
