@@ -5095,7 +5095,7 @@
 					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
 					<attribute id="HairPresetResourceId" type="FixedString" value="" />
 					<attribute id="HairType" type="uint8" value="0" />
-					<attribute id="ID" type="FixedString" value="36848c9d-46f3-4b18-93fa-d02c62b32cf9" />
+					<attribute id="ID" type="FixedString" value="072aba9f-7a92-460b-aee5-2dec49ad2878" />
 					<attribute id="MaterialType" type="uint8" value="0" />
 					<attribute id="Name" type="LSString" value="DragonOgre_M_Head_A" />
 					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
