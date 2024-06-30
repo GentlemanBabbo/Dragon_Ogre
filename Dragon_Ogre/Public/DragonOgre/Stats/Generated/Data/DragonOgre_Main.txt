@@ -8,6 +8,7 @@ data "DescriptionParams" "Distance(12)"
 data "Icon" "PassiveFeature_Darkvision"
 data "Properties" "Highlighted"
 data "Boosts" "ActionResource(Movement,9,0);DarkvisionRangeMin(12);ActiveCharacterLight(051648e6-f05a-e41f-e398-ffd5cd148989)"
+data "DynamicAnimationTag" "aafbe780-d237-416e-9d05-e03070c9dbee"
 
 new entry "Playable_M_DragonOgre"
 type "Character"
