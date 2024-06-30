@@ -7,7 +7,7 @@
 			<!--DRAGONOGRE Male Body-->
 				<node id="Resource"> 
 					<attribute id="DiffusionProfileUUID" type="FixedString" value="" /> 
-					<attribute id="ID" type="FixedString" value="e8d58f82-f167-4bfd-999b-235f97b3c917" /> Generate new UUID
+					<attribute id="ID" type="FixedString" value="0e5dd6d0-068d-4662-adba-7a67e4dcd6c3" /> Generate new UUID
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="COLORABLE_DRAGONOGRE_MAT" />
 					<attribute id="SourceFile" type="LSString" value="Public/SharedDev/Assets/Materials/Characters/CHAR_Skin_Body_DGB.lsf" />
@@ -214,7 +214,7 @@
 						</node>
 						<node id="ScalarParameters">
 							<attribute id="BaseValue" type="float" value="3" />
-							<attribute id="Enabled" type="bool" value="True" />
+							<attribute id="Enabled" type="bool" value="False" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="02Skin Properties" />
 							<attribute id="ParameterName" type="FixedString" value="Pearlescence_Sharpness" />
@@ -612,7 +612,7 @@
 					<attribute id="ID" type="FixedString" value="43d774f3-0bcb-4cbe-b1f9-17ec93d79933" />
 					<attribute id="Name" type="LSString" value="DRAGONOGREBody_M_MSK" />
 					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/DRAGONOGRE/[PAK]_DRAGONOGRE_Body/DRAGONOGRE_Body/DRAGONOGREBody_M_MSK.DDS" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/DragonOgre/[PAK]_DragonOgre_Body/DragonOgre_Body/DRAGONOGREBody_M_MSK.DDS" />
 					<attribute id="Streaming" type="bool" value="True" />
 					<attribute id="Template" type="FixedString" value="DRAGONOGREBody_M_MSK" />
 					<attribute id="Type" type="int32" value="1" />
@@ -625,7 +625,7 @@
 					<attribute id="ID" type="FixedString" value="f20a3b57-fe0c-4f83-8105-a37b37007287" />
 					<attribute id="Name" type="LSString" value="DRAGONOGREBody_M_BM" />
 					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/DRAGONOGRE/[PAK]_DRAGONOGRE_Body/DRAGONOGRE_Body/DRAGONOGREBody_M_BM.DDS" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/DragonOgre/[PAK]_DragonOgre_Body/DragonOgre_Body/DRAGONOGREBody_M_BM.DDS" />
 					<attribute id="Streaming" type="bool" value="True" />
 					<attribute id="Template" type="FixedString" value="DRAGONOGREBody_M_BM" />
 					<attribute id="Type" type="int32" value="1" />
@@ -638,7 +638,7 @@
 					<attribute id="ID" type="FixedString" value="42f1eb6a-f58d-4a88-b67d-f6121945fbe0" />
 					<attribute id="Name" type="LSString" value="DRAGONOGREBody_M_CLEA" />
 					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/DRAGONOGRE/[PAK]_DRAGONOGRE_Body/DRAGONOGRE_Body/DRAGONOGREBody_M_CLEA.DDS" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/DragonOgre/[PAK]_DragonOgre_Body/DragonOgre_Body/DRAGONOGREBody_M_CLEA.DDS" />
 					<attribute id="Streaming" type="bool" value="True" />
 					<attribute id="Template" type="FixedString" value="DRAGONOGREBody_M_CLEA" />
 					<attribute id="Type" type="int32" value="1" />
@@ -651,7 +651,7 @@
 					<attribute id="ID" type="FixedString" value="1f655367-99d3-4422-9fa4-51a1be9c805e" />
 					<attribute id="Name" type="LSString" value="DRAGONOGREBody_M_NM" />
 					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/DRAGONOGRE/[PAK]_DRAGONOGRE_Body/DRAGONOGRE_Body/DRAGONOGREBody_M_NM.DDS" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/DragonOgre/[PAK]_DragonOgre_Body/DragonOgre_Body/DRAGONOGREBody_M_NM.DDS" />
 					<attribute id="Streaming" type="bool" value="True" />
 					<attribute id="Template" type="FixedString" value="DRAGONOGREBody_M_NM" />
 					<attribute id="Type" type="int32" value="1" />
@@ -664,7 +664,7 @@
 					<attribute id="ID" type="FixedString" value="88fbd140-8f29-441c-821f-2909449b00e5" />
 					<attribute id="Name" type="LSString" value="DRAGONOGREBody_M_HMVY" />
 					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/DRAGONOGRE/[PAK]_DRAGONOGRE_Body/DRAGONOGRE_Body/DRAGONOGREBody_M_HMVY.DDS" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/DragonOgre/[PAK]_DragonOgre_Body/DragonOgre_Body/DRAGONOGREBody_M_HMVY.DDS" />
 					<attribute id="Streaming" type="bool" value="True" />
 					<attribute id="Template" type="FixedString" value="DRAGONOGREBody_M_HMVY" />
 					<attribute id="Type" type="int32" value="1" />
@@ -849,7 +849,7 @@
 						<node id="ClothProxyMapping" />
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" /> 
-							<attribute id="MaterialID" type="FixedString" value="e8d58f82-f167-4bfd-999b-235f97b3c917" />
+							<attribute id="MaterialID" type="FixedString" value="0e5dd6d0-068d-4662-adba-7a67e4dcd6c3" />
 							<attribute id="ObjectID" type="FixedString" value="DRAGONOGRE_M_NKD_Body.Bodymesh.0" />
 						</node>
 						<node id="Objects">
