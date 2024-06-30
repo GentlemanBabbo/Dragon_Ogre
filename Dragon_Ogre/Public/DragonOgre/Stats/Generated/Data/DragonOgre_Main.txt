@@ -42,7 +42,6 @@ data "Icon" "PassiveFeature_FavoredEnemy_SanctifiedStalker"
 data "Properties" "Highlighted"
 data "Boosts" "Resistance(Radiant,Resistant)"
 
-
 new entry "Passive_OgreCurse"
 type "PassiveData"
 data "DisplayName" "hc400f3fbgb1a2g4b2dga908g24aa688e09c4;1"
