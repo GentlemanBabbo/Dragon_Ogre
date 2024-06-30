@@ -26,7 +26,7 @@
 					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
 					<attribute id="DynamicPhysicsResourceID" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
 					<attribute id="ID" type="FixedString" value="b7fe8486-7418-4af9-8bd7-a0a7931f7e9f" />
-					<attribute id="IKRigResourceID" type="FixedString" value="75edf6f1-c321-4321-83d5-ef434b075fca" />
+					<attribute id="IKRigResourceID" type="FixedString" value="f45d73e2-c30a-82c0-2e4b-f02e907f9550" />
 					<attribute id="MirrorTableResourceID" type="FixedString" value="" />
 					<attribute id="Name" type="LSString" value="DragonOgre_M_Head_A_Base" />
 					<attribute id="PreviewAnimationResource" type="FixedString" value="" />
@@ -4386,7 +4386,7 @@
 				<!--Tiger Male Head-->
 				<node id="Resource"> 
 					<attribute id="DiffusionProfileUUID" type="FixedString" value="" /> 
-					<attribute id="ID" type="FixedString" value="6919c293-1346-437e-a44e-63b887a82b7a" /> Generate new UUID
+					<attribute id="ID" type="FixedString" value="51d74b49-fe2d-4a12-aff2-ccdd7b9415c4" /> Generate new UUID
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="COLORABLE_DragonOgreHEAD_MAT" />
 					<attribute id="SourceFile" type="LSString" value="Public/SharedDev/Assets/Materials/Characters/CHAR_Skin_Head_DGB.lsf" />
@@ -4585,7 +4585,7 @@
 						</node>
 						<node id="ScalarParameters">
 							<attribute id="BaseValue" type="float" value="1.5" />
-							<attribute id="Enabled" type="bool" value="True" />
+							<attribute id="Enabled" type="bool" value="False" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="02Skin Properties" />
 							<attribute id="ParameterName" type="FixedString" value="Pearlescence_Sharpness" />
@@ -5126,7 +5126,7 @@
 						<node id="Base" />
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="6919c293-1346-437e-a44e-63b887a82b7a" />
+							<attribute id="MaterialID" type="FixedString" value="51d74b49-fe2d-4a12-aff2-ccdd7b9415c4" />
 							<attribute id="ObjectID" type="FixedString" value="DragonOgre_M_Head_A.1OGRE_M_NKD_Head_A_Mesh.0" />
 						</node>
 						<node id="Objects">
