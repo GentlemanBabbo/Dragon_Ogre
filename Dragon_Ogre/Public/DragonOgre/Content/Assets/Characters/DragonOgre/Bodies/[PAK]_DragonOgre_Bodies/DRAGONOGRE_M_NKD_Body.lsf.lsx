@@ -1003,8 +1003,8 @@
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" /> 
-							<attribute id="MaterialID" type="FixedString" value="3046c971-6caf-abe6-5e9a-0149cf60d085" />
-							<attribute id="ObjectID" type="FixedString" value="DRAGONOGRE_M_NKD_Body.Fins.1" />
+							<attribute id="MaterialID" type="FixedString" value="15dc620e-d413-7be7-a587-f3806dda13a8" />
+							<attribute id="ObjectID" type="FixedString" value="DRAGONOGRE_M_NKD_Body.Spikes.1" />
 						</node>
 					</children>
 				</node>
