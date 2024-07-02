@@ -402,6 +402,16 @@
 				                    <attribute id="UUID" type="guid" value="b76d9a4b-fa99-4947-b5d8-45c96f4cea9e"/>
 				                    <attribute id="VisualResource" type="guid" value="4b4f8431-84a1-43d4-827e-c9b4fae1fddc"/>
 				                </node>
+						 <node id="CharacterCreationAppearanceVisual">
+				                    <attribute id="BodyShape" type="uint8" value="0"/>
+				                    <attribute id="BodyType" type="uint8" value="0"/>
+				                    <attribute id="DisplayName" type="TranslatedString" handle="" version="2"/>
+				                    <attribute id="HeadAppearanceUUID" type="guid" value="03a20d0c-db0c-49be-97f3-7b30b48b3b02"/>
+				                    <attribute id="RaceUUID" type="guid" value="7575a0fd-e832-4503-9c46-e5c04d7467d2"/>
+				                    <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
+				                    <attribute id="UUID" type="guid" value="2d87f814-5f20-403d-b3fe-0328fc9527ee"/>
+				                    <attribute id="VisualResource" type="guid" value="157931d7-0978-4abf-a7ca-70dc45ab9906"/>
+				                </node>
 		<!--Female Dragon Ogre Heads-->
 
 		<!--Horns-->
