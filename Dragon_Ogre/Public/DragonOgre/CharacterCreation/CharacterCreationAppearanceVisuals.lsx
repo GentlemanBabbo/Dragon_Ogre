@@ -415,7 +415,15 @@
 		<!--Female Dragon Ogre Heads-->
 
 		<!--Horns-->
-
+				                <node id="CharacterCreationAppearanceVisual">
+				                    <attribute id="BodyShape" type="uint8" value="0"/>
+				                    <attribute id="BodyType" type="uint8" value="0"/>
+				                    <attribute id="DisplayName" type="TranslatedString" handle="" version="1"/>
+				                    <attribute id="RaceUUID" type="guid" value="7575a0fd-e832-4503-9c46-e5c04d7467d2"/>
+				                    <attribute id="SlotName" type="FixedString" value="Horns"/>
+				                    <attribute id="UUID" type="guid" value="bbdbfeda-af08-49d3-bc53-320499a33a39"/>
+				                    <attribute id="VisualResource" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+				                </node>		
 		<!--Tiefling Horns-->
 
 		<!--Hair-->
