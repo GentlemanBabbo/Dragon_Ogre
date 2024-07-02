@@ -1,1 +1,46 @@
-
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="0" lslib_meta="v1,bswap_guids" />
+		<region id="VisualBank"> <!-- you only need VisualBank if you don't plan on making custom textures or materials  -->
+            <node id="VisualBank">
+                	<children>
+				<node id="Resource">
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+					<attribute id="BoundsMax" type="fvec3" value="0.23650265 2.222578 0.18404096" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.23650265 1.9218324 -0.23183218" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="157931d7-0978-4abf-a7ca-70dc45ab9906" />
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="DRAGONOGRE_M_NKD_Head_B_Top_B" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="RemapperSlotId" type="FixedString" value="1" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="" />
+					<attribute id="SkeletonResource" type="FixedString" value="7df5cc2e-2c8c-e05b-41ee-91caf02b9ac5" />
+					<attribute id="SkeletonSlot" type="FixedString" value="HeadwearRemap" />
+					<attribute id="Slot" type="FixedString" value="DragonbornTop" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/DragonOgre/[PAK]_DragonOgre_HeadParts/DragonOgre_HeadParts/DragonOgre_M_Head_B_TopPart_B.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/DragonOgre/[PAK]_DragonOgre_HeadParts/DragonOgre_HeadParts/DragonOgre_M_Head_B_TopPart_B.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209032" />
+					<children>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="" />
+						</node>
+						<node id="Base" />
+						<node id="ClothProxyMapping" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="fdd28ac1-5c83-cc2e-4f94-0c8c58d57bb3" />
+							<attribute id="ObjectID" type="FixedString" value="DragonOgre_M_Head_B_TopPart_B.DGB_M_NKD_Head_A_Top_Horns_MC_Mesh.0" />
+						</node>
+               </children>
+             </node>
+	</children>
+       </node>
+    </region>
+</save>
