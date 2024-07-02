@@ -121,7 +121,7 @@
 	</region>
 	<region id="MaterialBank">
 		<node id="MaterialBank">
-			<children
+			<children>
 				<node id="Resource"> 
 					<attribute id="DiffusionProfileUUID" type="FixedString" value="" /> 
 					<attribute id="ID" type="FixedString" value="54a71d2f-85e2-475b-8f80-f96a83c3c60b" /> Generate new UUID
