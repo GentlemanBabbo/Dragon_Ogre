@@ -6,7 +6,7 @@
             <children>               
                 <node id="SpellList">
                     <attribute id="Comment" type="LSString" value=""/> 
-                    <attribute id="Spells" type="LSString" value="Zone_Dovabeam;Projectile_Fly"/> the spells within the selector
+                    <attribute id="Spells" type="LSString" value="Zone_Dovabeam"/> the spells within the selector
                     <attribute id="UUID" type="guid" value="c9167fff-e3bd-4675-aaa0-d998311ea566"/> the UUID, needs to be unique
                 </node>
                 <node id="SpellList">
