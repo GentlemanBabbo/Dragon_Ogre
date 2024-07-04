@@ -447,7 +447,7 @@
 				                    <attribute id="DisplayName" type="TranslatedString" handle="" version="1"/>
 						    <attribute id="RaceUUID" type="guid" value="7575a0fd-e832-4503-9c46-e5c04d7467d2"/>
 				                    <attribute id="SlotName" type="FixedString" value="Wings"/>
-				                    <attribute id="UUID" type="guid" value="ed0f9cac-d958-4039-9410-9d1b1324fe89"/>
+				                    <attribute id="UUID" type="guid" value="00de4ebf-eaa0-4b01-9bb0-e504c338e6d5"/>
 				                    <attribute id="VisualResource" type="guid" value="24352209-be32-4acc-8cd4-75481529de49"/>
 				                </node>
         <!--Fake Genitals-->
