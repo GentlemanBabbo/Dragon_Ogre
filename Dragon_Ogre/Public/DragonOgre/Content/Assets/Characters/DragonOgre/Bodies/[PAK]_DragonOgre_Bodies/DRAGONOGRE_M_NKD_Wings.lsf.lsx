@@ -770,10 +770,10 @@
 																	<attribute id="ID" type="FixedString" value="4970c32c-5641-2e3a-5ca1-7ddc8682db92" />
 																	<attribute id="MapKey" type="FixedString" value="cacc8846-0ae5-47eb-9073-ee9166e4cb36" />
 																</node>
-																<node id="Object">
+																<!--<node id="Object">
 																	<attribute id="ID" type="FixedString" value="12d25dc0-8254-5f05-37b8-69af46bff017" />
 																	<attribute id="MapKey" type="FixedString" value="894973b5-109b-41c5-a2b4-334976c840ff" />
-																</node>
+																</node>-->
 																<node id="Object">
 																	<attribute id="ID" type="FixedString" value="947d0200-452c-f2db-576a-a65f211d6ca7" />
 																	<attribute id="MapKey" type="FixedString" value="d0b99285-a55a-44e6-9e46-b30daac9569c" />
@@ -1040,10 +1040,10 @@
 																	<attribute id="ID" type="FixedString" value="c07db8f8-23ff-5713-6c5f-86d17127c3b1" />
 																	<attribute id="MapKey" type="FixedString" value="bbbdd83f-5956-4055-9470-d6578c4a9abe" />
 																</node>
-																<node id="Object">
+																<!--<node id="Object">
 																	<attribute id="ID" type="FixedString" value="12d25dc0-8254-5f05-37b8-69af46bff017" />
 																	<attribute id="MapKey" type="FixedString" value="5295fe1e-abec-4873-a09a-23ae6e895a63" />
-																</node>
+																</node>-->
 																<node id="Object">
 																	<attribute id="ID" type="FixedString" value="48844cf5-353b-daa4-f281-acd35b41a31b" />
 																	<attribute id="MapKey" type="FixedString" value="d8b7f668-db2b-43b0-9707-5da2ed2cf27e" />
@@ -1241,10 +1241,10 @@
 																	<attribute id="ID" type="FixedString" value="158533d8-2d2c-e9e0-2db9-dbf84efd9070" />
 																	<attribute id="MapKey" type="FixedString" value="941021ed-0c3a-4c45-8134-4ea2a7f5d4f9" />
 																</node>
-																<node id="Object">
+																<!--<node id="Object">
 																	<attribute id="ID" type="FixedString" value="791c52fc-457a-24ab-cbb7-d0f3f976c7f8" />
 																	<attribute id="MapKey" type="FixedString" value="510ff37e-0618-40e4-8ce0-236e3dc9c291" />
-																</node>
+																</node>-->
 																<node id="Object">
 																	<attribute id="ID" type="FixedString" value="590c059d-737a-65b9-9c1b-f580824f8ef7" />
 																	<attribute id="MapKey" type="FixedString" value="5e57443f-284e-47b2-915e-5b6417db269c" />
@@ -2773,27 +2773,6 @@
 					<attribute id="Template" type="FixedString" value="Public/Shared/Assets/Characters/_Anims/_Creatures/Cambion/_Male/CAMBION_M_Wing_Rig/CAMBION_M_Wing_Rig_DFLT_CMBT_Skill_Fly_01_Prepare_Cancel.Anim.0" />
 					<attribute id="TimeStep" type="float" value="0.016666668" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144396663052566828" />
-				</node>
-				<node id="Resource">
-					<attribute id="AdditiveLoopingAnimationID" type="FixedString" value="" />
-					<attribute id="AdditiveLoopingBlendTime" type="float" value="0" />
-					<attribute id="AdditiveLoopingStart" type="float" value="0" />
-					<attribute id="AnchorHand" type="uint8" value="0" />
-					<attribute id="Duration" type="float" value="0" />
-					<attribute id="ID" type="FixedString" value="cf12cf4f-d2e8-1d5c-33c1-133843b76e3e" />
-					<attribute id="IsPoseBank" type="bool" value="False" />
-					<attribute id="LeftTransitionAnimation" type="FixedString" value="" />
-					<attribute id="Looping" type="bool" value="False" />
-					<attribute id="Name" type="LSString" value="CAMBION_M_Wing_Rig_COL_MizorasRescue_OM_Wyll_WyllsPunishment" />
-					<attribute id="Offset" type="float" value="0" />
-					<attribute id="PreviewVisualResource" type="FixedString" value="" />
-					<attribute id="RightTransitionAnimation" type="FixedString" value="" />
-					<attribute id="SkeletonResource" type="FixedString" value="ec6db21a-5772-8e78-a2c9-67022a323760" />
-					<attribute id="SourceFile" type="LSString" value="Public/SharedDev/Assets/Characters/_Anims/_Cinematic/Act02/COL/COL_MizorasRescue_OM_Wyll_COM_OOM/CAMBION_M_Wing_Rig_COL_MizorasRescue_OM_Wyll_WyllsPunishment.GR2" />
-					<attribute id="SupportingLeg" type="uint8" value="0" />
-					<attribute id="Template" type="FixedString" value="Public/SharedDev/Assets/Characters/_Anims/_Cinematic/Act02/COL/COL_MizorasRescue_OM_Wyll_COM_OOM/CAMBION_M_Wing_Rig_COL_MizorasRescue_OM_Wyll_WyllsPunishment.Anim.0" />
-					<attribute id="TimeStep" type="float" value="0" />
-					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403208908" />
 				</node>
 				<node id="Resource">
 					<attribute id="AdditiveLoopingAnimationID" type="FixedString" value="" />
