@@ -708,6 +708,7 @@
 																<node id="Object">
 																	<attribute id="ID" type="FixedString" value="c7be8459-5a3f-8ebd-8dc0-9fdef9401c1e" />
 																	<attribute id="MapKey" type="FixedString" value="43869da1-1252-4531-aee3-7408321d2424" />
+																</node>			
 																<node id="Object">
 																	<attribute id="ID" type="FixedString" value="c7be8459-5a3f-8ebd-8dc0-9fdef9401c1e" />
 																	<attribute id="MapKey" type="FixedString" value="5dcdcc4c-3744-451f-b5cf-ed96664481cc" />
