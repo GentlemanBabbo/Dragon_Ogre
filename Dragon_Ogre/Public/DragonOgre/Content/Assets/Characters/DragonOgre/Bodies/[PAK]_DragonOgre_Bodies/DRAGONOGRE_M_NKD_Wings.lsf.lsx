@@ -233,14 +233,6 @@
 																	<attribute id="MapKey" type="FixedString" value="5dcdcc4c-3744-451f-b5cf-ed96664481cc" />
 																</node>
 																<node id="Object">
-																	<attribute id="ID" type="FixedString" value="4bffcccb-450a-9e1e-5b9d-6a69cbb449dc" />
-																	<attribute id="MapKey" type="FixedString" value="821aed88-e17b-4b85-b37a-533f90fbba84" />
-																</node>
-																<node id="Object">
-																	<attribute id="ID" type="FixedString" value="5dab6787-76da-ba1f-690b-b4fb41e731f7" />
-																	<attribute id="MapKey" type="FixedString" value="577bcf78-3d3d-4bc3-a064-fc59b2280153" />
-																</node>
-																<node id="Object">
 																	<attribute id="ID" type="FixedString" value="fe7b91aa-1ac5-5a12-2f8d-728b05a0e9b0" />
 																	<attribute id="MapKey" type="FixedString" value="881e6512-732b-48d1-9606-e235bcf97e50" />
 																</node>
@@ -299,14 +291,6 @@
 																	<attribute id="MapKey" type="FixedString" value="5dcdcc4c-3744-451f-b5cf-ed96664481cc" />
 																</node>
 																<node id="Object">
-																	<attribute id="ID" type="FixedString" value="4bffcccb-450a-9e1e-5b9d-6a69cbb449dc" />
-																	<attribute id="MapKey" type="FixedString" value="821aed88-e17b-4b85-b37a-533f90fbba84" />
-																</node>
-																<node id="Object">
-																	<attribute id="ID" type="FixedString" value="5dab6787-76da-ba1f-690b-b4fb41e731f7" />
-																	<attribute id="MapKey" type="FixedString" value="577bcf78-3d3d-4bc3-a064-fc59b2280153" />
-																</node>
-																<node id="Object">
 																	<attribute id="ID" type="FixedString" value="245390ec-3b61-9414-0bdd-10a46bdeef6b" />
 																	<attribute id="MapKey" type="FixedString" value="881e6512-732b-48d1-9606-e235bcf97e50" />
 																</node>
@@ -363,14 +347,6 @@
 																<node id="Object">
 																	<attribute id="ID" type="FixedString" value="c88580dd-4ff0-128a-162c-708747d367e6" />
 																	<attribute id="MapKey" type="FixedString" value="5dcdcc4c-3744-451f-b5cf-ed96664481cc" />
-																</node>
-																<node id="Object">
-																	<attribute id="ID" type="FixedString" value="4bffcccb-450a-9e1e-5b9d-6a69cbb449dc" />
-																	<attribute id="MapKey" type="FixedString" value="821aed88-e17b-4b85-b37a-533f90fbba84" />
-																</node>
-																<node id="Object">
-																	<attribute id="ID" type="FixedString" value="5dab6787-76da-ba1f-690b-b4fb41e731f7" />
-																	<attribute id="MapKey" type="FixedString" value="577bcf78-3d3d-4bc3-a064-fc59b2280153" />
 																</node>
 																<node id="Object">
 																	<attribute id="ID" type="FixedString" value="245390ec-3b61-9414-0bdd-10a46bdeef6b" />
@@ -543,10 +519,6 @@
 																	<attribute id="MapKey" type="FixedString" value="0036dd28-0484-47fd-87bd-efa6af2b9f85" />
 																</node>
 																<node id="Object">
-																	<attribute id="ID" type="FixedString" value="4bffcccb-450a-9e1e-5b9d-6a69cbb449dc" />
-																	<attribute id="MapKey" type="FixedString" value="821aed88-e17b-4b85-b37a-533f90fbba84" />
-																</node>
-																<node id="Object">
 																	<attribute id="ID" type="FixedString" value="9ee04945-4d40-d02f-de3a-ff1f61364ca8" />
 																	<attribute id="MapKey" type="FixedString" value="f4ac302b-1569-404f-bd52-1fe443e265df" />
 																</node>
@@ -557,10 +529,6 @@
 																<node id="Object">
 																	<attribute id="ID" type="FixedString" value="063aded3-25b9-4252-60a4-cede2000cf14" />
 																	<attribute id="MapKey" type="FixedString" value="b780092c-cc12-43d5-b60e-acbac3fdceed" />
-																</node>
-																<node id="Object">
-																	<attribute id="ID" type="FixedString" value="5dab6787-76da-ba1f-690b-b4fb41e731f7" />
-																	<attribute id="MapKey" type="FixedString" value="577bcf78-3d3d-4bc3-a064-fc59b2280153" />
 																</node>
 																<node id="Object">
 																	<attribute id="ID" type="FixedString" value="eee43e5b-200e-6e5d-3cce-abe1c082348f" />
@@ -697,16 +665,8 @@
 																	<attribute id="MapKey" type="FixedString" value="e8a5c57f-855b-4227-acaa-11e8ce8d7d64" />
 																</node>
 																<node id="Object">
-																	<attribute id="ID" type="FixedString" value="4bffcccb-450a-9e1e-5b9d-6a69cbb449dc" />
-																	<attribute id="MapKey" type="FixedString" value="821aed88-e17b-4b85-b37a-533f90fbba84" />
-																</node>
-																<node id="Object">
 																	<attribute id="ID" type="FixedString" value="c3023950-0e19-4a77-0ef1-674b69b2f965" />
 																	<attribute id="MapKey" type="FixedString" value="f4ac302b-1569-404f-bd52-1fe443e265df" />
-																</node>
-																<node id="Object">
-																	<attribute id="ID" type="FixedString" value="5dab6787-76da-ba1f-690b-b4fb41e731f7" />
-																	<attribute id="MapKey" type="FixedString" value="577bcf78-3d3d-4bc3-a064-fc59b2280153" />
 																</node>
 																<node id="Object">
 																	<attribute id="ID" type="FixedString" value="c7be8459-5a3f-8ebd-8dc0-9fdef9401c1e" />
@@ -1254,10 +1214,6 @@
 																	<attribute id="MapKey" type="FixedString" value="0036dd28-0484-47fd-87bd-efa6af2b9f85" />
 																</node>
 																<node id="Object">
-																	<attribute id="ID" type="FixedString" value="4bffcccb-450a-9e1e-5b9d-6a69cbb449dc" />
-																	<attribute id="MapKey" type="FixedString" value="821aed88-e17b-4b85-b37a-533f90fbba84" />
-																</node>
-																<node id="Object">
 																	<attribute id="ID" type="FixedString" value="762abcf2-545e-9f2b-76bb-0a405cd0ff8a" />
 																	<attribute id="MapKey" type="FixedString" value="f6c50c60-5887-42fc-a64f-1841aee27af2" />
 																</node>
@@ -1320,10 +1276,6 @@
 																<node id="Object">
 																	<attribute id="ID" type="FixedString" value="1cf0112b-3f65-95a5-284b-9e14fb97b249" />
 																	<attribute id="MapKey" type="FixedString" value="9cb533e9-dbc1-45d4-b5f9-3f2e30a3670f" />
-																</node>
-																<node id="Object">
-																	<attribute id="ID" type="FixedString" value="5dab6787-76da-ba1f-690b-b4fb41e731f7" />
-																	<attribute id="MapKey" type="FixedString" value="577bcf78-3d3d-4bc3-a064-fc59b2280153" />
 																</node>
 																<node id="Object">
 																	<attribute id="ID" type="FixedString" value="eee43e5b-200e-6e5d-3cce-abe1c082348f" />
@@ -1715,25 +1667,6 @@
 				</node>
 				<node id="Resource">
 					<attribute id="AdditiveLoopingAnimationID" type="FixedString" value="" />
-					<attribute id="AnchorHand" type="uint8" value="0" />
-					<attribute id="Duration" type="float" value="3.466667" />
-					<attribute id="ID" type="FixedString" value="2988eb49-c1b8-48f9-7348-5f219e249550" />
-					<attribute id="IsPoseBank" type="bool" value="False" />
-					<attribute id="LeftTransitionAnimation" type="FixedString" value="" />
-					<attribute id="Looping" type="bool" value="False" />
-					<attribute id="Name" type="LSString" value="CAMBION_M_Wing_Rig_DFLT_LOCO_Walk_F_Peace_01" />
-					<attribute id="Offset" type="float" value="0" />
-					<attribute id="PreviewVisualResource" type="FixedString" value="8f4d1c1d-d35b-cdb7-9142-e86a73c49a6f" />
-					<attribute id="RightTransitionAnimation" type="FixedString" value="" />
-					<attribute id="SkeletonResource" type="FixedString" value="" />
-					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Characters/_Anims/_Creatures/Cambion/_Male/CAMBION_M_Wing_Rig/CAMBION_M_Wing_Rig_DFLT_LOCO_Walk_F_Peace_01.GR2" />
-					<attribute id="SupportingLeg" type="uint8" value="0" />
-					<attribute id="Template" type="FixedString" value="Public/Shared/Assets/Characters/_Anims/_Creatures/Cambion/_Male/CAMBION_M_Wing_Rig/CAMBION_M_Wing_Rig_DFLT_LOCO_Walk_F_Peace_01.Anim.0" />
-					<attribute id="TimeStep" type="float" value="0.016666668" />
-					<attribute id="_OriginalFileVersion_" type="int64" value="144396663052566828" />
-				</node>
-				<node id="Resource">
-					<attribute id="AdditiveLoopingAnimationID" type="FixedString" value="" />
 					<attribute id="AdditiveLoopingBlendTime" type="float" value="0" />
 					<attribute id="AdditiveLoopingStart" type="float" value="0" />
 					<attribute id="AnchorHand" type="uint8" value="0" />
@@ -1988,25 +1921,6 @@
 				<node id="Resource">
 					<attribute id="AdditiveLoopingAnimationID" type="FixedString" value="" />
 					<attribute id="AnchorHand" type="uint8" value="0" />
-					<attribute id="Duration" type="float" value="2.266667" />
-					<attribute id="ID" type="FixedString" value="4bffcccb-450a-9e1e-5b9d-6a69cbb449dc" />
-					<attribute id="IsPoseBank" type="bool" value="False" />
-					<attribute id="LeftTransitionAnimation" type="FixedString" value="" />
-					<attribute id="Looping" type="bool" value="False" />
-					<attribute id="Name" type="LSString" value="CAMBION_M_Wing_Rig_DFLT_LOCO_Run_F_Peace_01" />
-					<attribute id="Offset" type="float" value="0" />
-					<attribute id="PreviewVisualResource" type="FixedString" value="8f4d1c1d-d35b-cdb7-9142-e86a73c49a6f" />
-					<attribute id="RightTransitionAnimation" type="FixedString" value="" />
-					<attribute id="SkeletonResource" type="FixedString" value="" />
-					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Characters/_Anims/_Creatures/Cambion/_Male/CAMBION_M_Wing_Rig/CAMBION_M_Wing_Rig_DFLT_LOCO_Run_F_Peace_01.GR2" />
-					<attribute id="SupportingLeg" type="uint8" value="0" />
-					<attribute id="Template" type="FixedString" value="Public/Shared/Assets/Characters/_Anims/_Creatures/Cambion/_Male/CAMBION_M_Wing_Rig/CAMBION_M_Wing_Rig_DFLT_LOCO_Run_F_Peace_01.Anim.0" />
-					<attribute id="TimeStep" type="float" value="0.016666668" />
-					<attribute id="_OriginalFileVersion_" type="int64" value="144396663052566828" />
-				</node>
-				<node id="Resource">
-					<attribute id="AdditiveLoopingAnimationID" type="FixedString" value="" />
-					<attribute id="AnchorHand" type="uint8" value="0" />
 					<attribute id="Duration" type="float" value="1.9333334" />
 					<attribute id="ID" type="FixedString" value="4d348170-e229-e07b-b14c-dc7b9cb563cc" />
 					<attribute id="IsPoseBank" type="bool" value="False" />
@@ -2058,25 +1972,6 @@
 					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Characters/_Anims/_Creatures/Cambion/_Male/CAMBION_M_Wing_Rig/CAMBION_M_Wing_Rig_DFLT_SPL_FireRay_01_Cancel.GR2" />
 					<attribute id="SupportingLeg" type="uint8" value="0" />
 					<attribute id="Template" type="FixedString" value="Public/Shared/Assets/Characters/_Anims/_Creatures/Cambion/_Male/CAMBION_M_Wing_Rig/CAMBION_M_Wing_Rig_DFLT_SPL_FireRay_01_Cancel.Anim.0" />
-					<attribute id="TimeStep" type="float" value="0.016666668" />
-					<attribute id="_OriginalFileVersion_" type="int64" value="144396663052566828" />
-				</node>
-				<node id="Resource">
-					<attribute id="AdditiveLoopingAnimationID" type="FixedString" value="" />
-					<attribute id="AnchorHand" type="uint8" value="0" />
-					<attribute id="Duration" type="float" value="5.0000005" />
-					<attribute id="ID" type="FixedString" value="5dab6787-76da-ba1f-690b-b4fb41e731f7" />
-					<attribute id="IsPoseBank" type="bool" value="False" />
-					<attribute id="LeftTransitionAnimation" type="FixedString" value="" />
-					<attribute id="Looping" type="bool" value="False" />
-					<attribute id="Name" type="LSString" value="CAMBION_M_Wing_Rig_DFLT_LOCO_Stroll_F_Peace_01" />
-					<attribute id="Offset" type="float" value="0" />
-					<attribute id="PreviewVisualResource" type="FixedString" value="8f4d1c1d-d35b-cdb7-9142-e86a73c49a6f" />
-					<attribute id="RightTransitionAnimation" type="FixedString" value="" />
-					<attribute id="SkeletonResource" type="FixedString" value="" />
-					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Characters/_Anims/_Creatures/Cambion/_Male/CAMBION_M_Wing_Rig/CAMBION_M_Wing_Rig_DFLT_LOCO_Stroll_F_Peace_01.GR2" />
-					<attribute id="SupportingLeg" type="uint8" value="0" />
-					<attribute id="Template" type="FixedString" value="Public/Shared/Assets/Characters/_Anims/_Creatures/Cambion/_Male/CAMBION_M_Wing_Rig/CAMBION_M_Wing_Rig_DFLT_LOCO_Stroll_F_Peace_01.Anim.0" />
 					<attribute id="TimeStep" type="float" value="0.016666668" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144396663052566828" />
 				</node>
